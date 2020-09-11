@@ -10,7 +10,10 @@ This project is basically based on Prediction of Natural Disaster basically **Fl
 For example -
       
       "JAN-1901" "5.6" .... 
+
 THE RAINFALL DATA IS IN MM.
+
+
 **EARTHQUAKE :-**
     Work in Progress........
 
