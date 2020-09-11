@@ -4,7 +4,11 @@ This project is basically based on Prediction of Natural Disaster basically **Fl
 
 **FLOOD :-**
     The basic operation of the project is to check weather fload will occur in the predefined regions or not, wherein this project focused more on regions in Maharashtra. In this project the regions are Konkan and Goa, Madhya Maharashtra, Marathwada, Vidharbha, Chhattisgarh. 
-***EARTHQUAKE :-**
+    About the Dataset used :- The available dataset was recorded daily, in this project the data was averaged in the pattern of months and then provided to the Model. The dataset has 7 coloumns namely - "YEAR/MONTH","Rainfall_(NAME OF REGION)".......
+    For example :- "JAN-1901" "5.6" .... 
+    
+    THE RAINFALL DATA IS IN MM.
+**EARTHQUAKE :-**
     Work in Progress........
 
 
